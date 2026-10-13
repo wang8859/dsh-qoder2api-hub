@@ -1,0 +1,6 @@
+node_modules/
+__pycache__/
+*.pyc
+vendor/qoder2api-hub/accounts/
+vendor/qoder2api-hub/usage/
+.qoder-credentials.json
